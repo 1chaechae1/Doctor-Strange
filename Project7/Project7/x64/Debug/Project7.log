@@ -1,0 +1,6 @@
+﻿  MazeRecur.c
+  PowerTest.c
+C:\Users\chq11\source\repos\Project7\Project7\PowerTest.c(27,9): warning C4101: 'd1' :참조되지 않은 지역 변수입니다.
+C:\Users\chq11\source\repos\Project7\Project7\PowerTest.c(27,13): warning C4101: 'd2' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  Project7.vcxproj -> C:\Users\chq11\source\repos\Project7\x64\Debug\Project7.exe
