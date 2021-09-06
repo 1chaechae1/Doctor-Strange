@@ -1,0 +1,10 @@
+#define MAX_CHAR_PER_LINE 1000
+typedef struct Line {
+ 	char str[MAX_CHAR_PER_LINE];
+} Line;
+typedef Line Element;
+typedef struct LinkedNode {
+ 	Element data;
+ 	struct LinkedNode* link;
+} Node;
+Node* head; 	// 헤더 포인터를 사용함.
