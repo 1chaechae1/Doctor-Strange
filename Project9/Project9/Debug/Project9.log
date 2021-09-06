@@ -1,0 +1,22 @@
+﻿  Eval.c
+Eval.obj : error LNK2005: _calc_height이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _count_leaf이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _count_node이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _create_tree이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _dequeue이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _enqueue이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _error이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _get_root이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _init_queue이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _init_tree이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _inorder이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _is_empty이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _is_empty_tree이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _is_full이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _levelorder이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _main이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _peek이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _postorder이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _preorder이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+Eval.obj : error LNK2005: _size이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+C:\Users\chq11\source\repos\Project9\Debug\Project9.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
