@@ -1,0 +1,5 @@
+﻿  AdjListGraph.c
+C:\Users\chq11\source\repos\Project12\Project12\AdjListGraph.c(77,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chq11\source\repos\Project12\Project12\AdjListGraph.c(80,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chq11\source\repos\Project12\Project12\AdjListGraph.c(82,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chq11\source\repos\Project12\Project12\AdjListGraph.c(85,5): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
